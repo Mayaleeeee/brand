@@ -22,6 +22,13 @@ Have an AsyncAPI tool/project that you would like to add the logo to?
 1. [Download generic banner](./assets/github-repobanner-generic.png) and include it in your README via an `assets` folder in the root of your repository
 2. [Request a custom banner](https://github.com/asyncapi/brand/issues/new?&title=New+repo+banner+request&body=Leave+the+title+and+link+of+your+repo+and+any+other+details+here&assignees=mcturco&labels=:art:+design) by submitting an issue
 
+## 🖼 Community Social Media assets
+This is the central file for all AsyncAPI community social media templates: sponsorships, volunteer shout-outs, event promos, and more.
+They are designed to keep our posts looking consistent, on-brand, and easy for anyone to create without starting from scratch.
+
+[View the Social Media Assets guide](https://www.figma.com/design/LgSxCOVi0iE2I7gijl5rf0/Community-Social-Assets?node-id=0-1&t=Lqe9gkN2tIzC8B2k-1)
+
+
 ## 🙌 💡 Ready to contribute?
 There are plenty of ways to share your contribution with this project, and you don't have to be a designer to do so! We welcome feedback and work alike in the following areas:
 
